@@ -1,0 +1,7 @@
+node_modules
+.env
+src/assets/.DS_Store
+src/pages/.DS_Store
+src/components/.DS_Store
+src/styles/.DS_Store
+src/.DS_Store
